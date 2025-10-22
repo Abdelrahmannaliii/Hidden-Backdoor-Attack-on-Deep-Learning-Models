@@ -43,4 +43,3 @@ Find a poisoned image `z` that:
 - Minimizes the distance between feature representations of `z` and a **patched source image** `s`
 - Retains visual similarity to the target image `t`
 
-**Loss Function:**
